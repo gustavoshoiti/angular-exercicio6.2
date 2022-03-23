@@ -57,9 +57,4 @@ export class RFormComponent {
       return true
     }
   }
-  /*
-  confirm(v1: any, v2: any): boolean {
-    return !(v1 === v2)
-  }
-  */
 }
